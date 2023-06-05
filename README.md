@@ -1,0 +1,1 @@
+Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. this Repo is to introduce it to me and teach me the basics if the language as I submit my assignments in this repo
